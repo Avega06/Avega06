@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MCP, Astro, Terraform**
 
-- 💬 Ask me about **react, angular,nestJS, node, python,**
+- 💬 Ask me about **react, angular, nestJS, node, python,**
 
 - 📫 How to reach me **alexvega06.1996@gmail.com**
 
